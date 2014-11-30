@@ -1,1 +1,12 @@
-Create 'home/chacedagges/.ssh'.
+$ ssh-keygen -t dsa -C "CHACEDAGGERS@databasesetup.shell.sf.net"
+Generating public/private dsa key pair.
+Enter file in which to save the key (/home/chacedaggers/.ssh/id_dsa):
+Create directory '/home/chacedaggers/.ssh'
+Enter passphrase ($(SNJbravo6r)($@@@@@@@@#@))
+Enter passphrase again:(($@@@@@@@@#@))
+Your identification has been saved in /home/chacedaggers/.ssh/id_dsa.priv.
+The key fingerprint 
+f3:32:a8:c5:82:17:c8:9f:dd:5b:fb:26:97:84:2d:3b
+    <begin>
+      CHACEDAGGERS@databasesetup.shell.sf.net
+</end>
